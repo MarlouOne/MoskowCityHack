@@ -1,0 +1,22 @@
+[
+    {
+        "SystemName": "MIR",
+        "Count": 27.3
+    },
+    {
+        "SystemName": "Visa",
+        "Count": 58.0
+    },
+    {
+        "SystemName": "MasterCard",
+        "Count": 13.6
+    },
+    {
+        "SystemName": "Maestro",
+        "Count": 0.0
+    },
+    {
+        "SystemName": "Other",
+        "Count": 1.2
+    }
+]

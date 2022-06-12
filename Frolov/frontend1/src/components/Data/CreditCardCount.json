@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "CardType": 1,
+        "CardCount":81.0
+    },
+    {
+        "id": 1,
+        "CardType": 2,
+        "CardCount":12.0
+    },
+    {
+        "id": 2,
+        "CardType": 3,
+        "CardCount":5.0
+    },
+    {
+        "id": 3,
+        "CardType": "4+",
+        "CardCount":2.0
+    }
+]
