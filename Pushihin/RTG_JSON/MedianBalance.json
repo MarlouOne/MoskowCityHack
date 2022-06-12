@@ -1,0 +1,10 @@
+{
+ "Type":{
+  "0":"Median debet turn sum",
+  "1":"Median credit turn sum"
+ },
+ "Amount":{
+  "0":43900,
+  "1":45000
+ }
+}

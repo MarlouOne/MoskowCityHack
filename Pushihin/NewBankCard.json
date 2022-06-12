@@ -1,1 +1,1 @@
-{"listCreditSys":{"0":"Visa","1":"MIR","2":"\u041c\u0418\u0420","3":"MasterCard","4":"Maestro"},"listCreditSysCount":{"0":3162,"1":52,"2":1427,"3":748,"4":0}}
+[{"SystemName": "MIR", "Percent": 27.6}, {"SystemName": "Visa", "Percent": 57.2}, {"SystemName": "MasterCard", "Percent": 14.1}, {"SystemName": "Maestro", "Percent": 0.0}, {"SystemName": "Other", "Percent": 1.1}]

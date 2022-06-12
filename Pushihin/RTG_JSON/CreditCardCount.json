@@ -1,1 +1,1 @@
-{"listCreditCard":{"0":1,"1":2,"2":3,"3":4},"listCreditCardCount":{"0":6510,"1":416,"2":40,"3":27}}
+[{"CardType": 1, "CardCount": 25.0}, {"CardType": 2, "CardCount": 0.0}, {"CardType": 3, "CardCount": 25.0}, {"CardType": "4+", "CardCount": 50.0}]
