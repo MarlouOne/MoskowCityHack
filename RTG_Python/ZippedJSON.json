@@ -1,0 +1,118 @@
+[
+ [
+  {
+   "Age": "14-16",
+   "Percent": 0.0
+  },
+  {
+   "Age": "16-23",
+   "Percent": 6.91
+  },
+  {
+   "Age": "23-30",
+   "Percent": 11.7
+  },
+  {
+   "Age": "30-37",
+   "Percent": 18.67
+  },
+  {
+   "Age": "37-44",
+   "Percent": 19.88
+  },
+  {
+   "Age": "44-51",
+   "Percent": 15.92
+  },
+  {
+   "Age": "51-58",
+   "Percent": 11.76
+  },
+  {
+   "Age": "58-65",
+   "Percent": 9.34
+  },
+  {
+   "Age": "65-72",
+   "Percent": 4.16
+  },
+  {
+   "Age": "72-79",
+   "Percent": 1.28
+  },
+  {
+   "Age": "79-86",
+   "Percent": 0.38
+  },
+  {
+   "Age": "86-93",
+   "Percent": 0.0
+  }
+ ],
+ [
+  {
+   "avrBalance": 2950.0
+  }
+ ],
+ [
+  {
+   "CardType": 1,
+   "CardCount": 0.0
+  },
+  {
+   "CardType": 2,
+   "CardCount": 33.33
+  },
+  {
+   "CardType": 3,
+   "CardCount": 0.0
+  },
+  {
+   "CardType": "4+",
+   "CardCount": 66.67
+  }
+ ],
+ [
+  {
+   "Gender": "F",
+   "Percent": 1813
+  },
+  {
+   "Gender": "M",
+   "Percent": 1571
+  }
+ ],
+ [
+  {
+   "MedianDebetTurnSum": 29900,
+   "MedianCreditTurnSum": 25000
+  }
+ ],
+ [
+  {
+   "MidAvrBankUseTime": 1.0
+  }
+ ],
+ [
+  {
+   "SystemName": "MIR",
+   "Percent": 22.6
+  },
+  {
+   "SystemName": "Visa",
+   "Percent": 62.9
+  },
+  {
+   "SystemName": "MasterCard",
+   "Percent": 13.0
+  },
+  {
+   "SystemName": "Maestro",
+   "Percent": 0.0
+  },
+  {
+   "SystemName": "Other",
+   "Percent": 1.5
+  }
+ ]
+]
